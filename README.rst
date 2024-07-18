@@ -5,7 +5,7 @@ JIIT WiFi
 `The BeeWare Project`_. **If you want to see more tools like Briefcase, please
 consider** `becoming a financial member of BeeWare`_.
 
-Used to login/logout of Campus Wifi easily on Android
+Used to login/logout of Campus Wifi easily on Android, macOS, Linux and Windows
 
 .. _`Briefcase`: https://briefcase.readthedocs.io/
 .. _`The BeeWare Project`: https://beeware.org/

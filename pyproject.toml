@@ -10,7 +10,7 @@ author_email = "harsh@codelif.in"
 
 [tool.briefcase.app.jiit-wifi]
 formal_name = "JIIT WiFi"
-description = "Used to login/logout of Campus Wifi easily on Android,macOS,Linux,Windows"
+description = "Used to login/logout of Campus Wifi easily on Android, macOS, Linux and Windows"
 long_description = """More details about the app should go here.
 """
 sources = [
