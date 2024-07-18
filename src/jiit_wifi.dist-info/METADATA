@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: jiit-wifi
+Formal-Name: JIIT WiFi
+App-ID: in.codelif.jiit-wifi
+Version: 0.0.1
+Home-page: https://codelif.in/jiit-wifi
+Download-URL: https://codelif.in/jiit-wifi
+Author: Harsh Sharma
+Author-email: harsh@codelif.in
+Summary: Used to login/logout of Campus Wifi easily on Android
