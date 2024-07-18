@@ -1,5 +1,5 @@
 # JIIT WiFi
-Used to login/logout of Campus Wifi easily on Android, macOS, Linux and Windows
+Tired of annyoing popups to login to wifi everytime? Now, login/logout of Campus Wifi easily on Android, macOS, Linux and Windows with JIIT Wi-Fi
 
 
 ## What is this?
